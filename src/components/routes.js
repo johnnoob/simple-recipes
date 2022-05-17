@@ -1,19 +1,19 @@
 const routes = [
   {
     url: "/",
-    title: "首頁",
+    title: "home",
   },
   {
     url: "/about",
-    title: "關於我們",
+    title: "about",
   },
   {
     url: "/tags",
-    title: "標籤頁面",
+    title: "tags",
   },
   {
     url: "/recipes",
-    title: "食譜頁面",
+    title: "recipes",
   },
 ]
 
