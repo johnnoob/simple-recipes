@@ -1,0 +1,9 @@
+.page {
+    color:rosybrown
+}
+.page h1 {
+    color: royalblue;
+}
+.text {
+    text-transform: capitalize;
+}
